@@ -1,6 +1,7 @@
-def hello();
-"""
-this is demo
-"""
-return print("hello dosto")
-hello();
+def hello():
+    """
+    This is a demo
+    """
+    print("hello dosto")
+
+hello()
